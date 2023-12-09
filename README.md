@@ -57,5 +57,9 @@ The player has three enemies in this level, the three bell cats.
 &emsp;&emsp;The characters, props and scenes in the game were meticulously modelled according to our own sketched concept artwork.And We use Blender for bone binding and simple animations.
 ## 3.2 Codding
 &emsp;&emsp;The main core code can be divided into three modules: player control, enemy AI, and mini-map display.
-- Player Control
-&emsp;&emsp;
+- Player Control  
+&emsp;&emsp;In addition to the basic movement of the player such as forward and backward, in this module we also add the detection of collision of sugar cubes, so as to achieve the collection of sugar cubes, the real-time display of the number of remaining sugar cubes on the field UI
+- Enemy AI  
+&emsp;&emsp;The AI of the enemies in the period is mainly achieved by cycling through several states; they are standby, patrol, and chase. When they are more than a certain range away from the player, they will randomly head to a checkpoint near the player to patrol, and once they are in range of the chase, they will go into chase mode, moving quickly in the direction of the player, and when the player gets rid of the enemy, they will continue to return to the patrol state
+- Mini-map Display  
+&emsp;&emsp;The map is implemented primarily with a camera looking vertically down at the ground, while the maze walls, the player's and the enemy's heads are placed with differently coloured positional points. The focus of the camera is adjusted so that it can only see these locations, and the camera frame is captured and placed on the UI plane.
