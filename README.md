@@ -15,3 +15,11 @@
 - Monster Image Design  
 &emsp;&emsp;The bell cats.They are more cartoonish but have sharp fangs and claws, and live in a maze of forests covered in sugar cubes; they are usually mild-mannered and have a very quick pace, but become vicious once they find that someone has entered their territory and tried to touch the sugar cubes.   
 &emsp;&emsp;Chess guards, based on chess, black and white, dressed in armour, with chess pieces as their bodies and swords in their hands, guarding the Square Sugar Castle, spending their days in a standing position, but in fact moving sensitively, moving quickly out of sight of intruders.
+- Main game props
+&emsp;&emsp;Square Sugar, a prop that Eric needs to collect. When all are collected and put into the teacups, the sugar cubes will activate a mysterious power to send Eric back to the original world, back to the table where the teacups were placed.
+&emsp;&emsp;View Candy is a prop that needs to be collected just like the Candy Cube. The difference is that the View Candy has the effect of monitoring the real-time location at a glance, and one capsule lasts for 20s.
+## 1.3 Main Gameplay
+&emsp;&emsp;The main character of the game is controlled using the four basic control keys ASDW, with the mouse to achieve the character's running and change direction.
+### 1.3.1 Level 1
+- 
+
