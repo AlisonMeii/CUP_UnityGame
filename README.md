@@ -26,14 +26,14 @@
 &emsp;&emsp; :guardsman: **Chess guards** , based on chess, black and white, dressed in armour, with chess pieces as their bodies and swords in their hands, guarding the Square Sugar Castle, spending their days in a standing position, but in fact moving sensitively, moving quickly out of sight of intruders.
 <div align=center><img width="800" height="300" src="https://github.com/AlisonMeii/CUP_UnityGame/blob/main/image/bellcat.png?raw=true"/></div>
 <div align=center><img width="1050" height="300" src="https://github.com/AlisonMeii/CUP_UnityGame/blob/main/image/knight.png?raw=true"/></div>
-<p align="center">The above pictures are Bell cats and Chess guards in that order</p>
+<p align="center">(The above pictures are Bell cats and Chess guards in that order)</p>
 
 - **Main game props** :coffee:  
 &emsp;&emsp; **Square Sugar** , a prop that Eric needs to collect. When all are collected and put into the teacups, the sugar cubes will activate a mysterious power to send Eric back to the original world, back to the table where the teacups were placed.  
 &emsp;&emsp; **View Candy**  is a prop that needs to be collected just like the Candy Cube. The difference is that the View Candy has the effect of monitoring the real-time location at a glance, and one capsule lasts for 20s.
 <div align=center><img width="800" height="380" src="https://github.com/AlisonMeii/CUP_UnityGame/blob/main/image/sugar1.png?raw=true"/></div>
 <div align=center><img width="800" height="380" src="https://github.com/AlisonMeii/CUP_UnityGame/blob/main/image/sugar2.png?raw=true"/></div>
-<p align="center">The above pictures are Square Sugar and View Candy in that order</p>
+<p align="center">(The above pictures are Square Sugar and View Candy in that order)</p>
 
 ## 1.3 Main Gameplay
 &emsp;&emsp;The main character of the game is controlled using the four basic control keys ASDW, with the mouse to achieve the character's running and change direction.
