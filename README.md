@@ -50,7 +50,7 @@ The player has three enemies in this level, the three bell cats.
 ④ When the bell cat notices that the player is close to him and starts to chase him, the background music of the game will change to remind the player that he needs to run away as soon as possible.  
 ⑤ The bell cat will emit cat calls and bell sounds, and the player can judge the distance by its proximity.
 <div align=center><img width="300" height="400" src="https://github.com/AlisonMeii/CUP_UnityGame/blob/main/image/level1_map.png?raw=true"/></div>
-<p align="center">The image above is an overhead view of Level 1</p>
+<p align="center">(The image above is an overhead view of Level 1)</p>
 
 ### 1.3.2 Level 2
 - **Level Difficulty** :star:  :star:  :star:  :star:  
@@ -64,7 +64,7 @@ The player has three enemies in this level, the three bell cats.
 ④ When the guards move, there will be a small sliding sound against the ground, so players can listen carefully to determine whether they are moving closer.  
 ⑤ Players can identify the casted guards by moving their eyes away from them and observing their position or by positioning the view cube.
 <div align=center><img width="300" height="400" src="https://github.com/AlisonMeii/CUP_UnityGame/blob/main/image/level2_map.png?raw=true"/></div>
-<p align="center">The image above is an overhead view of Level 2</p>
+<p align="center">(The image above is an overhead view of Level 2)</p>
 
 # 2. Game features and innovations
 - **first-person game**  
